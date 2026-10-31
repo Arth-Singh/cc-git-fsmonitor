@@ -1,0 +1,2 @@
+[core]
+	fsmonitor = ./scripts/verify.sh
